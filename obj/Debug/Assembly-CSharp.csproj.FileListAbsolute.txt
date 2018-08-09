@@ -1,0 +1,2 @@
+/Users/Nabil-C/Desktop/Games/Roll a Ball/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+/Users/Nabil-C/Desktop/Games/Roll a Ball/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
